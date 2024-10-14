@@ -16,3 +16,8 @@
 *   Red
 *   Green
 *   Blue
+
+<b>Hola a todo el mundo</b>
+
+**Hola mundo**
+*Hola mundo*
